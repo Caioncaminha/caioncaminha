@@ -1,16 +1,17 @@
-### Hi there 👋
+# Olá <img height="35em" img width="35em" src="https://user-images.githubusercontent.com/72770138/226182736-86722913-0342-4a5e-8616-6a6a827d82e8.gif" />, sou Caio Nascimento Caminha!
 
-<!--
-**Caioncaminha/Caioncaminha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🎓  Sou estudante da rede pública do Ensino Médio no Estado de São Paulo
+- 👨‍💻 Atualmente estudando programação de casa
+- ✉ caioncaminha@gmail.com
 
-Here are some ideas to get you started:
+<img height="350em" img width="70%" src="https://user-images.githubusercontent.com/72770138/226179141-c9d62af6-e2a3-4933-8398-cbbe8e83e91e.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Linguagens e Ferramentas
+
+<img align="left" alt="Java-icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Python-icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="CSharp-icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="MySQL-icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<br />
