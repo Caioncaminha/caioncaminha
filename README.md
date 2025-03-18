@@ -4,7 +4,7 @@
 - 👨‍💻 Currently specializing in optimizing and developing softwares.
 - ✉ caioncaminha@gmail.com
 
-<img height="350em" img width="70%" src="https://user-images.githubusercontent.com/72770138/226179141-c9d62af6-e2a3-4933-8398-cbbe8e83e91e.gif" />
+<img height="350em" img width="50%" src="https://user-images.githubusercontent.com/72770138/226179141-c9d62af6-e2a3-4933-8398-cbbe8e83e91e.gif" />
 
 ---
 
