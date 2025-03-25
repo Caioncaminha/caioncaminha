@@ -14,4 +14,5 @@
 <img align="left" alt="Python-icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="CSharp-icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="MySQL-icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="HTML-icon" width="40" src="https://pt.wikipedia.org/wiki/HTML5#/media/Ficheiro:HTML5_logo_and_wordmark.svg" />
 <br />
