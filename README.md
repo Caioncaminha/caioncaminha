@@ -1,6 +1,6 @@
 # Hi <img height="35em" img width="35em" src="https://user-images.githubusercontent.com/72770138/226182736-86722913-0342-4a5e-8616-6a6a827d82e8.gif" />, I'm Caio Nascimento Caminha!
 
-<a href="https://www.linkedin.com/in/mateus-santos-116619235/" target="_blank">
+<a href="https://www.linkedin.com/in/caio-nascimento-caminha-311b7726a/" target="_blank">
   <img height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
