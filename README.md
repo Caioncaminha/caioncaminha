@@ -33,9 +33,9 @@
 <img align='right'style="display: flex; align-items: center; gap: 20px;"  height="220px" src="https://64.media.tumblr.com/de43adfe0c792ce320634c48a1736f8b/aeb37772594de8c8-60/s640x960/5b576baa501fac0c5c8367ab91b6f56359d6ace2.gif" alt="imagem" />
     <div align="left">
 
-- ` Graduating in software engineering at FIAP.`
+- `Graduating in software engineering at FIAP.`
 
-- ` Currently specializing in optimizing and developing softwares/websites.`
+- `Currently specializing in optimizing and developing softwares/websites.`
 
 - `caioncaminha@gmail.com`
 
