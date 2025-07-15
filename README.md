@@ -7,7 +7,7 @@
 
 #### `1st year software engineering student at FIAP.`
 
-#### `Currently specializing in Front-End development and Python/Algorithms.`
+#### `Currently specializing in Back-End development and Python/Algorithms.`
 
 #### `caioncaminha@gmail.com`
 
