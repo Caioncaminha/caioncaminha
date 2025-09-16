@@ -41,7 +41,7 @@
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/caio-nascimento-caminha-311b7726a/" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/caionascimentocaminha/" target="_blank" title="LinkedIn">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
