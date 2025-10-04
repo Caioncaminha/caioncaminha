@@ -7,7 +7,7 @@
 
 #### `1st year software engineering student at FIAP.`
 
-#### `Currently specializing in Back-End development, Databases and Python/Algorithms.`
+#### `Currently specializing in Back-End development, data science and Python/algorithms.`
 
 #### `caioncaminha@gmail.com`
 
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,dart,flutter,pandas,matplotlib,numpy,sqlite,firebase,fastapi,html,css,javascript,react,vscode,excel,pbi&perline=8" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,matplotlib,numpy,aws,mongodb,firebase,docker,linux,dart,flutter,tailwind,html,css,javascript,react,postman,vscode,excel,pbi&perline=10" />
   </a>
 </p>
 
