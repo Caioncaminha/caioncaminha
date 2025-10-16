@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,matplotlib,numpy,aws,mongodb,firebase,docker,linux,dart,flutter,tailwind,html,css,javascript,react,postman,vscode,excel,pbi&perline=10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,matplotlib,numpy,seaborn,mongodb,firebase,docker,linux,dart,flutter,tailwind,html,css,javascript,react,postman,vscode,excel,pbi&perline=10" />
   </a>
 </p>
 
