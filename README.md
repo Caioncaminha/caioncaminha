@@ -5,9 +5,9 @@
 <div align="left">
     <img align="right" height="220px" src="https://64.media.tumblr.com/de43adfe0c792ce320634c48a1736f8b/aeb37772594de8c8-60/s640x960/5b576baa501fac0c5c8367ab91b6f56359d6ace2.gif" alt="imagem" />
 
-#### `1st year software engineering student at FIAP.`
+#### `2nd year software engineering student at FIAP.`
 
-#### `Currently specializing in Back-End development, data science and Python/algorithms.`
+#### `Currently specializing in Back-End development, data engineering and Python/algorithms.`
 
 #### `caioncaminha@gmail.com`
 
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,matplotlib,numpy,seaborn,mongodb,firebase,docker,linux,dart,flutter,tailwind,html,css,javascript,react,postman,vscode,excel,pbi&perline=10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,pandas,matplotlib,numpy,jupyter,seaborn,mongodb,postgresql,firebase,supabase,excel&perline=6" />
   </a>
 </p>
 
