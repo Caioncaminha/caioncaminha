@@ -1,56 +1,49 @@
-# Hi <img height="35em" img width="35em" src="https://user-images.githubusercontent.com/72770138/226182736-86722913-0342-4a5e-8616-6a6a827d82e8.gif" />, I'm Caio Nascimento Caminha!
+# Hi, I'm Caio Nascimento Caminha! 👋
 
-## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About me
-
-<div align="left">
-    <img align="right" height="220px" src="https://64.media.tumblr.com/de43adfe0c792ce320634c48a1736f8b/aeb37772594de8c8-60/s640x960/5b576baa501fac0c5c8367ab91b6f56359d6ace2.gif" alt="imagem" />
-
-#### `2nd year software engineering student at FIAP.`
-
-#### `Currently specializing in Back-End development, data engineering and Python/algorithms.`
-
-#### `caioncaminha@gmail.com`
-
-</div>
-
-<br><br><br>
-
-## 🤖 Languages and Tools
-
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,pandas,matplotlib,numpy,jupyter,seaborn,mongodb,postgresql,firebase,supabase,excel&perline=6" />
-  </a>
+<p align="justify" style="margin-bottom: 0;">
+I'm a 2nd year Software Engineering student at FIAP. Currently specializing in Back-End development, data engineering and Python/algorithms.
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
+<table align="center" style="border-collapse: collapse; margin-top: 0;">
+    <tr>
+      <td align="left"
+        style= border: 2px solid #30363d; vertical-align: top; width: 75%;">
+        <div style="padding: 20px; box-sizing: border-box;">
+          <h3 style="margin: 0 0 12px 0;">🎯 Main Skills</h3>
+          <ul style="margin: 0; padding-left: 20px;">
+            <li><b>Programming & Development: </b>Python (Pandas, NumPy, Matplotlib, Seaborn, Jupyter), TypeScript, RESTful APIs.</li>
+            <li><b>Databases: </b>PostgreSQL, Cloud Firestore, MongoDB, Supabase/Firebase.</li>
+            <li><b>Analysis & Visualization: </b>Power BI (Beginner), Excel (Intermediate).</li>
+          </ul>
+        </div>
+      </td>
+      <td align="left" style="border: 2px solid #30363d; vertical-align: top; width: 25%;">
+        <div style="height: 12px;">
+          <h3 style="margin: 0 0 12px;">🛠️ Tech Stack</h3>
+           <div style="line-height: 1.6;">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+            <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+            <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+            <br>
+            <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+            <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+            <br>
+            <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+            <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black" />
+            <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+           </div>
+        </div>
+      </td>
+    </tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caioncaminha&theme=synthwave&show_icons=true&hide_title=true" alt="GitHub Stats"/>
+---
 
-<img 
-  align="center"
-  alt="Github Stats"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioncaminha&layout=compact&theme=synthwave"
-/>
+### Contact Me
 
-</div>
-
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> Contact Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/caionascimentocaminha/" target="_blank" title="LinkedIn">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:caioncaminha@gmail.com" target="_blank" title="Gmail">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" height="40" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Caioncaminha" target="_blank" title="GitHub">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=github" height="40" alt="GitHub"/>
-  </a>
-</p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f0550&height=120&section=footer"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3193f5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caionascimentocaminha/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caioncaminha@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caioncaminha)
