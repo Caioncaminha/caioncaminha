@@ -1,7 +1,7 @@
 # Hi, I'm Caio Nascimento Caminha! 👋
 
 <p align="justify" style="margin-bottom: 0;">
-I'm a 2nd year Software Engineering student at FIAP. Currently specializing in Back-End development, data engineering and Python/algorithms.
+I'm a 2nd year Software Engineering student at FIAP. Currently specializing in Data Engineering and DSA (Data Structures and Algorithms).
 </p>
 
 <table align="center" style="border-collapse: collapse; margin-top: 0;">
@@ -11,9 +11,10 @@ I'm a 2nd year Software Engineering student at FIAP. Currently specializing in B
         <div style="padding: 20px; box-sizing: border-box;">
           <h3 style="margin: 0 0 12px 0;">🎯 Main Skills</h3>
           <ul style="margin: 0; padding-left: 20px;">
-            <li><b>Programming & Development: </b>Python (Pandas, NumPy, Matplotlib, Seaborn, Jupyter), TypeScript, RESTful APIs.</li>
-            <li><b>Databases: </b>PostgreSQL, Cloud Firestore, MongoDB, Supabase/Firebase.</li>
-            <li><b>Analysis & Visualization: </b>Power BI (Beginner), Excel (Intermediate).</li>
+            <li><b>AI: </b>Prompt Engineering, AI Training and Virtual Agent (Custom AIC, VAs), AI Integration</li>
+            <li><b>Development: </b>Python (Pandas), TypeScript, RESTful APIs, Excel, Power BI</li>
+            <li><b>Databases: </b>PostgreSQL, MongoDB, Supabase/Firebase, dbt</li>
+            <li><b>Methodologies: </b>SOLID, DRY, KISS, Version Control, Clean Code</li>
           </ul>
         </div>
       </td>
@@ -23,13 +24,12 @@ I'm a 2nd year Software Engineering student at FIAP. Currently specializing in B
            <div style="line-height: 1.6;">
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
             <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-            <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
             <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
             <br>
             <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
             <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
             <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
             <br>
             <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
             <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black" />
