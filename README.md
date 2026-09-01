@@ -11,10 +11,9 @@ I'm a 2nd year Software Engineering student at FIAP. Currently specializing in D
         <div style="padding: 20px; box-sizing: border-box;">
           <h3 style="margin: 0 0 12px 0;">🎯 Main Skills</h3>
           <ul style="margin: 0; padding-left: 20px;">
-            <li><b>AI: </b>Prompt Engineering, AI Training and Virtual Agent (Custom AIC, VAs), AI Integration.</li>
-            <li><b>Development: </b>Python (Pandas, PySpark), RESTful APIs, Excel, Power BI</li>
-            <li><b>Databases: </b>PostgreSQL, MongoDB, Supabase/Firebase, dbt</li>
-            <li><b>Methodologies: </b>SOLID, DRY, KISS, Version Control, Clean Code.</li>
+            <li><b>Data Engineering: </b>Apache Airflow (Cloud Composer), Google BigQuery, Google Cloud Storage, advanced SQL, medallion architecture, incremental modeling (MERGE, partitioning, dedup), data contracts & schema design, data quality and freshness monitoring, CI/CD with GitHub Actions</li>
+            <li><b>AI: </b>Prompt Engineering, AI Training and Virtual Agent (Custom AIC, VAs), AI Integration</li>
+            <li><b>Databases: </b>PostgreSQL, MongoDB, Snowflake, MySQL</li>
           </ul>
         </div>
       </td>
