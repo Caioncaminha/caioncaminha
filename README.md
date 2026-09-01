@@ -28,12 +28,9 @@ I'm a 2nd year Software Engineering student at FIAP. Currently specializing in D
             <br>
             <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
             <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-            <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
             <br>
             <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
             <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-            <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" />
             <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
            </div>
         </div>
