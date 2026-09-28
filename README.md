@@ -11,8 +11,8 @@ I'm a 2nd year Software Engineering student at FIAP. Currently specializing in D
         <div style="padding: 20px; box-sizing: border-box;">
           <h3 style="margin: 0 0 12px 0;">🎯 Main Skills</h3>
           <ul style="margin: 0; padding-left: 20px;">
-            <li><b>Data Engineering: </b>Apache Airflow (Cloud Composer), Google BigQuery, Google Cloud Storage, advanced SQL, medallion architecture, incremental modeling (MERGE, partitioning, dedup), data contracts & schema design, data quality and freshness monitoring, CI/CD with GitHub Actions</li>
-            <li><b>AI: </b>Prompt Engineering, AI Training and Virtual Agent (Custom AIC, VAs), AI Integration</li>
+            <li><b>Data Engineering: </b>Apache Airflow (Cloud Composer), Google BigQuery, Google Cloud Storage, advanced SQL, medallion architecture, incremental modeling (MERGE, partitioning, deduplication), data contracts and schema design, data quality and freshness monitoring, data governance and ADR practice, monitoring via the Airflow REST API, CI/CD with GitHub Actions</li>
+            <li><b>AI: </b>Claude Code, Skill creation and MCP integrations for agents, test automation and full pipeline auditing, document organization for local model training</li>
             <li><b>Databases: </b>PostgreSQL, MongoDB, Snowflake, MySQL</li>
           </ul>
         </div>
